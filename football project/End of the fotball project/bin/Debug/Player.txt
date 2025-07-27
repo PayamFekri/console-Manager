@@ -1,0 +1,15 @@
+name : System.String[]
+playerfield : System.String[]
+player age : System.Int32[]
+player goals : System.Int32[]
+TeamCadre : System.String[]
+name : name : System.String[]
+playerfield : 
+player age : 0
+player goals : 0
+TeamCadre : 
+name : name : System.String[]
+playerfield : 
+player age : 0
+player goals : 0
+TeamCadre : 

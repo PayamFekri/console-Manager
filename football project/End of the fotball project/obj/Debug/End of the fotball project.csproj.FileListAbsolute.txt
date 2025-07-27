@@ -1,0 +1,8 @@
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\obj\Debug\End of the fotball project.csproj.AssemblyReference.cache
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\obj\Debug\End of the fotball project.csproj.SuggestedBindingRedirects.cache
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\obj\Debug\End of the fotball project.csproj.CoreCompileInputs.cache
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\bin\Debug\End of the fotball project.exe.config
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\bin\Debug\End of the fotball project.exe
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\bin\Debug\End of the fotball project.pdb
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\obj\Debug\End of the fotball project.exe
+C:\Users\baranit2\source\repos\End of the fotball project\End of the fotball project\obj\Debug\End of the fotball project.pdb
